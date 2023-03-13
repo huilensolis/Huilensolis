@@ -1,18 +1,12 @@
 ![](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)
 <h1>Hi there👋, I'm Huilén Solís</h1>
-<h3>A 17 years old passionate frontend developer from Argentina, Córdoba.</h3>
-
-- 🎓I’m a [Platzi student](https://platzi.com/p/Huilen/)
-- 🔭 I’m currently on the #100daysofcoding challengue, you can check it out on my twitter
-
-- 🌱 I’m currently learning **HTML, CSS and Javascript**
-
+<h3>A passionate frontend developer from Argentina, Córdoba.</h3>
 - 👨‍💻 My projects are available at [My Portfolio](https://huilensolis.github.io/)
 - 📫 Contact me by **solishuilencontact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/solishuilen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xywvanz" height="30" width="40" /></a> <a href="https://platzi.com/p/Huilen/" target="blank"> <img src="https://static.platzi.com/static/images/footer/logo.png" alt="Platzi profile" height="30"></> </a>
+<a href="https://twitter.com/solishuilen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xywvanz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

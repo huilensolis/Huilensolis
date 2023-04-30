@@ -14,6 +14,9 @@
   
 ## About me
   #### :octocat: I am a Full Stack Frontend Developer from Cordoba, Argentina.
+  - I am in the Xacademy bootcamp.
+  - learning Node js Express
+  - Enlgish 🇬🇧 / French 🇫🇷 /  Spanish 🇪🇸
   ### :hammer_and_wrench: Languages and Tools :
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

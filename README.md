@@ -1,12 +1,12 @@
 # Hey! I'm Huilen
 <div id="badges">
-  <a href="https://huilensolis.github.io/" target="_blank">
+  <a href="https://huilensolis.github.io/">
     <img src="https://img.shields.io/badge/-Portfolio-blueviolet?logoColor=white&style=for-the-badge" alt="Portfolio"
   </a>
-  <a href="https://www.linkedin.com/in/huilensolis/" target="_blank">
+  <a href="https://www.linkedin.com/in/huilensolis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/SolisHuilen" target="_blank">
+  <a href="https://twitter.com/SolisHuilen">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>  

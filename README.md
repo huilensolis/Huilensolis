@@ -1,12 +1,12 @@
 # Hey! I'm Huilen
 <div id="badges">
-  <a href="https://huilensolis.github.io/">
+  <a href="https://huilensolis.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-blueviolet?logoColor=white&style=for-the-badge" alt="Portfolio"
   </a>
-  <a href="https://www.linkedin.com/in/huilensolis/">
+  <a href="https://www.linkedin.com/in/huilensolis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/SolisHuilen">
+  <a href="https://twitter.com/SolisHuilen" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>  
@@ -27,6 +27,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
   </div>
+  
+### :fire: My Stats :
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Huilensolis&theme=dark&background=000000.svg)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Huilensolis)
 <!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
 <!-- ```javascript
 const huilen = {

@@ -29,9 +29,9 @@
   </div>
   
 ### :fire: My Stats :
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Huilensolis&theme=dark&background=000000.svg)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Huilensolis&theme=dark&background=000000)
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Huilensolis)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Huilensolis&theme=dark&background=000000)
 <!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
 <!-- ```javascript
 const huilen = {

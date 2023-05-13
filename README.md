@@ -1,4 +1,4 @@
-# Hey! I'm Huilen
+# Hey! I'm Huilen Solis ;)
 
 <div id="badges">
   <a href="https://huilensolis.github.io/">

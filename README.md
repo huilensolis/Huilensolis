@@ -16,7 +16,7 @@
 ## About me
   #### :octocat: I am a Full Stack Frontend Developer from Cordoba, Argentina.
   - I am in the Xacademy bootcamp.
-  - learning Angular.
+  - learning React.
   - Enlgish 🇬🇧 / French 🇫🇷 /  Spanish 🇪🇸
   ### :hammer_and_wrench: Languages and Tools :
   <div>

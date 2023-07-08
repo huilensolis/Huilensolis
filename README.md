@@ -1,7 +1,7 @@
 # Hey there! I'm Huilen Solis ;)
 
 <div id="badges">
-  <a href="huilensolis.vercel.app">
+  <a href="https://huilensolis.vercel.app">
     <img src="https://img.shields.io/badge/-Portfolio-blueviolet?logoColor=white&style=for-the-badge" alt="Portfolio"
   </a>
   <a href="https://www.linkedin.com/in/huilensolis/">

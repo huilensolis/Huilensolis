@@ -1,7 +1,7 @@
 # Hey there! I'm Huilen Solis ;)
 
 <div id="badges">
-  <a href="https://huilensolis.github.io/">
+  <a href="https://huilensolis.github.io/portfolio/">
     <img src="https://img.shields.io/badge/-Portfolio-blueviolet?logoColor=white&style=for-the-badge" alt="Portfolio"
   </a>
   <a href="https://www.linkedin.com/in/huilensolis/">

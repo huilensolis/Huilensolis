@@ -15,9 +15,8 @@
   
 ## About me
   #### :octocat: I am a Full Stack Frontend Developer from Cordoba, Argentina.
-  - I am in the Xacademy bootcamp.
-  - learning React.
-  - Enlgish 🇬🇧 / French 🇫🇷 /  Spanish 🇪🇸
+  - learning React js with next js 13.
+  - English 🇬🇧 / French 🇫🇷 /  Spanish 🇪🇸
   ### :hammer_and_wrench: Languages and Tools : 
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;
@@ -36,16 +35,6 @@
  
 ### :fire: My Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Huilensolis&theme=dark&background=000000)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huilensolis&layout=donut&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
-<!-- ```javascript
-const huilen = {
-  code: [Javascript, HTML, CSS],
-  tools: [Git, Github],
-  area: 'Frontend'
-}
-``` -->
 
 
 

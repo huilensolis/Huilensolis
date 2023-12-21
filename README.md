@@ -15,7 +15,7 @@
   
 ## About me
   #### :octocat: I am a Full Stack Frontend Developer from Cordoba, Argentina.
-  - learning React js with next js 13.
+  - I like to build things with Next-JS, TypeScript and Tailwind :)
   - English 🇬🇧 / French 🇫🇷 /  Spanish 🇪🇸
   ### :hammer_and_wrench: Languages and Tools : 
   <div>

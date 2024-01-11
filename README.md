@@ -30,7 +30,7 @@
 
 Hello! I'm Huilen, a FullStack developer from Argentina. Here is a little bit about me:
 - Have been working with Typescript, Next JS, Tailwind and Node JS with Express for the past months ;)
-- Joined X Academy in 2023, where we learnt Javascript, typescript, Angular, Node js, Express, Docker and Mysql.
+- Joined X Academy in 2023, where we learnt Javascript, Typescript, Angular, Node js, Express, Docker and MySql.
 ```
 
 ```txt

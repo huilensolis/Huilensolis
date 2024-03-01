@@ -31,5 +31,5 @@ const HuilenSolis: TFullStackDev = {
 }
 ```
 [![GitHub Streak](https://streak-stats.demolab.com?user=huilensolis&theme=catppuccin-macchiato&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huilensolis&layout=compact&theme=catppuccin_mocha&include_all_commits=true&langs_count=8&hide_border=true&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huilensolis&layout=compact&theme=catppuccin_mocha&include_all_commits=true&langs_count=8&hide_border=true&card_width=300)
 ![Huilen's Graph](https://github-readme-activity-graph.vercel.app/graph?username=huilensolis&custom_title=Huilen%20Solis%20GitHub%20Activity%20Graph&theme=tokyo-night)

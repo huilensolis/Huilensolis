@@ -1,4 +1,16 @@
-![](https://komarev.com/ghpvc/?username=huilensolis&color=539BF5)
+![profile view count](https://komarev.com/ghpvc/?username=huilensolis&color=539BF5)
+
+<div>
+  <a href="https://www.linkedin.com/in/huilensolis/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://huilensolis.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://twitter.com/solishuilen">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ```ts
 const HuilenSolis: TFullStackDev = {

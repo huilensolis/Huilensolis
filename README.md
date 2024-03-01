@@ -12,6 +12,9 @@
   </a>
 </div>
 
+![Frame 7](https://github.com/Huilensolis/Huilensolis/assets/113150193/60d80786-737f-4cf6-bdb9-9d0ede357644)
+
+
 ```ts
 const HuilenSolis: TFullStackDev = {
   technologies: {

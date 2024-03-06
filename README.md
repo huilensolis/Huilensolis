@@ -20,13 +20,16 @@ const HuilenSolis: TFullStackDev = {
   technologies: {
     frontend: ['Typescript', 'Javascript', 'React js', 'Next js', 'Tailwind CSS', 'Zustand', 'HTML', 'CSS'],
     backend: ['Node js', 'Bun js', 'Express js', 'Elysia js', 'JWT', 'SequelizeORM', 'DrizzleORM', 'PostgreSQL'],
-    testing: ['Bun test'],
+    testing: {
+      backend: ['Bun test'],
+      frontend: [], // TODO: learn frontend testing < 3
+    },
     curious_on: ['Turborepo', 'Docker', 'Rust']
   },
   development_environment: ['Arch Linux', 'Oh My Zsh', 'Nvim', 'Brave'],
-  design_patterns: ['Clean Architecture', 'SOLID Principles', 'Screaming Architecture'],
-  languages: ['English', 'Spanish'],
-  currently_building: ['interestellar', 'Picture', 'Memoir'],
+  design_patterns: ['Clean Architecture', 'SOLID', 'Screaming Architecture'],
+  languages: ['English', 'Spanish'], // <-- TODO: add "French"
+  currently_building: ['interestelar', 'Pictura', 'Memoir'],
   say_hi(){
     console.log('Hey, welcome to my profile readme')
     console.log('if you want to contribute to any of my repos, feel free to comment an issue and make a PR!')

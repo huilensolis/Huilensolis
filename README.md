@@ -29,7 +29,6 @@ const HuilenSolis: TFullStackDev = {
   development_environment: ['Arch Linux', 'Hyprland', 'Wayland', 'Oh My Zsh', 'Wezterm', 'Nvim', 'Brave'],
   design_patterns: ['Clean Architecture', 'SOLID', 'Screaming Architecture'],
   languages: ['English', 'Spanish'], // <-- TODO: add "Latin"
-  currently_building: ['Build Square', 'Memoir'],
   say_hi(){
     console.log('Hey, welcome to my profile README.md')
     console.log('If you want to contribute to any of my repos, feel free to open an issue and make a PR!')
